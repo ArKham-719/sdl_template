@@ -1,0 +1,9 @@
+{
+    cmdlines = {
+        [[xmake lua C:\Users\lenovo\xmake\modules\private\utils\statistics.lua]],
+        [[xmake lua C:\Users\lenovo\xmake\actions\build\cleaner.lua]],
+        "xmake project -k compile_commands",
+        "xmake run",
+        [[xmake l c:\Users\lenovo\.vscode-oss\extensions\tboox.xmake-vscode-2.5.4-universal\assets\explorer.lua]]
+    }
+}

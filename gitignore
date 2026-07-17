@@ -1,0 +1,5 @@
+.exe
+.vscode
+.cache
+.xmake
+compile_commands.json

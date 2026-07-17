@@ -1,0 +1,6 @@
+[
+{
+  "directory": "c:\\Users\\lenovo\\Work\\image_viewer\\first_try",
+  "arguments": ["C:\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe", "-c", "-std=c++17", "-Iinclude", "-Iinclude\\imgui", "-Iinclude\\imgui\\backends", "-Iinclude\\stb", "-Iinclude\\SDL3", "-fexceptions", "-o", "build\\.objs\\image_viewer\\windows\\x64\\src\\main.cpp.obj", "src\\main.cpp"],
+  "file": "src\\main.cpp"
+}]
