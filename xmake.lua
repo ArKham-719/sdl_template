@@ -11,6 +11,7 @@ target("image_viewer")
 
     -- your source files
     add_files("src/main.cpp")
+    add_files("src/stb.cpp")
 
     -- imgui source, compiled directly into the binary
     add_files("src/imgui/*.cpp")
